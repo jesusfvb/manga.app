@@ -1,7 +1,7 @@
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { IconsSVG } from '../../assets';
 import AppBar from '../../features/manga/presentation/components/app_bar';
-import HomeView from '../../features/manga/presentation/views/home_view';
+import HomeView from '../../features/manga/presentation/views/home';
 
 const Tab = createBottomTabNavigator();
 
